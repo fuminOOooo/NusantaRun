@@ -76,7 +76,7 @@ struct LandingView: View {
                                                 size: 40)
                                     )
                                     .fontWeight(.bold)
-                                Text("Perluas pengetahuan nusantaramu dengan\nbenda-benda ciri khas berbagai daerah!")
+                                Text("Perbesar pengetahuan nusantaramu dengan\nbenda-benda ciri khas berbagai daerah!")
                                     .multilineTextAlignment(.center)
                                     .font(.custom("SFProDisplay", size: 14))
                                     .lineLimit(nil)
