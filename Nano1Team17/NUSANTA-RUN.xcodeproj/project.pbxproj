@@ -21,8 +21,6 @@
 		15A7469029C85066008F9ACE /* Nano1Team17Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7468F29C85066008F9ACE /* Nano1Team17Tests.swift */; };
 		15A7469A29C85066008F9ACE /* Nano1Team17UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7469929C85066008F9ACE /* Nano1Team17UITests.swift */; };
 		15A7469C29C85066008F9ACE /* Nano1Team17UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7469B29C85066008F9ACE /* Nano1Team17UITestsLaunchTests.swift */; };
-		15EEA6EA29D08B2700579FE8 /* Correct.mpeg in Resources */ = {isa = PBXBuildFile; fileRef = 15EEA6E929D08B2700579FE8 /* Correct.mpeg */; };
-		15EEA6EC29D0920000579FE8 /* Wrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 15EEA6EB29D0920000579FE8 /* Wrong.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,8 +58,6 @@
 		15A7469529C85066008F9ACE /* NUSANTA-RUNUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NUSANTA-RUNUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15A7469929C85066008F9ACE /* Nano1Team17UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nano1Team17UITests.swift; sourceTree = "<group>"; };
 		15A7469B29C85066008F9ACE /* Nano1Team17UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nano1Team17UITestsLaunchTests.swift; sourceTree = "<group>"; };
-		15EEA6E929D08B2700579FE8 /* Correct.mpeg */ = {isa = PBXFileReference; lastKnownFileType = video.mpeg; name = Correct.mpeg; path = ../../../../Downloads/Correct.mpeg; sourceTree = "<group>"; };
-		15EEA6EB29D0920000579FE8 /* Wrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Wrong.mp3; path = ../../../../Downloads/Wrong.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,8 +98,6 @@
 			children = (
 				15A7468029C85065008F9ACE /* ContentView.swift */,
 				15615B7429CD5062004C50C6 /* ContentViewModel.swift */,
-				15EEA6EB29D0920000579FE8 /* Wrong.mp3 */,
-				15EEA6E929D08B2700579FE8 /* Correct.mpeg */,
 				15615B7229CD502A004C50C6 /* UpperContentView.swift */,
 				15615B7629CD5144004C50C6 /* MiddleContentView.swift */,
 				15615B7829CD519D004C50C6 /* BottomContentView.swift */,
@@ -282,9 +276,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				15EEA6EC29D0920000579FE8 /* Wrong.mp3 in Resources */,
 				15615B8F29CF097A004C50C6 /* Preview Assets.xcassets in Resources */,
-				15EEA6EA29D08B2700579FE8 /* Correct.mpeg in Resources */,
 				15615B8C29CF091E004C50C6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -476,7 +468,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Nano1Team17/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 35V95TRX69;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -505,7 +497,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Nano1Team17/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 35V95TRX69;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
