@@ -7,5 +7,4 @@ Take a run on nusantara's famous views and sites.
 
 Requirements : iOS 17.0+
 
-# License
 See license details [here](https://github.com/fuminOOooo/nusanta-run/blob/main/LICENSE).
